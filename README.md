@@ -5,4 +5,6 @@ Actividades de Codo a Codo
 
 [Backup Base de datos](/backup_actividad1.sql)
 
+Captura de los registros realizados
+
 ![Captura de los registros](/captura-registro.png)
